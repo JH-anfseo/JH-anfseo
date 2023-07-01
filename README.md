@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&customColorList=0&height=150&section=header&text=JH%20Github😺&fontColor=ffffff&fontSize=90&fontAlignY=56" />
